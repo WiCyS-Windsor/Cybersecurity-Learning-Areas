@@ -45,4 +45,10 @@ Big data are being used in various cybersecurity applications. For example, in S
 http://ceur-ws.org/Vol-2081/paper22.pdf
 https://link.springer.com/article/10.1186/s40537-020-00318-5
 
+Cryptography:
+Cryptography is the study of secure communications techniques that allow only the sender and intended recipient of a message to view its contents. The term is derived from the Greek word kryptos, which means hidden. It is closely associated to encryption, which is the act of scrambling ordinary text into what's known as ciphertext and then back again upon arrival. Also known as encryption, cryptography is a security domain that focuses on maintaining data integrity, confidentiality, and authenticity. In practice, cryptography implies using different techniques of disguising information so that it can only be revealed to authorized users. At the same time, of course, those that do not have access to the encrypted intel will perceive data as unreadable or unrecognizable. When transmitting electronic data, the most common use of cryptography is to encrypt and decrypt email and other plain-text messages. The simplest method uses the symmetric or "secret key" system. Here, data is encrypted using a secret key, and then both the encoded message and secret key are sent to the recipient for decryption. The problem? If the message is intercepted, a third party has everything they need to decrypt and read the message. To address this issue, cryptologists devised the asymmetric or "public key" system. In this case, every user has two keys: one public and one private. Senders request the public key of their intended recipient, encrypt the message and send it along. When the message arrives, only the recipient's private key will decode it — meaning theft is of no use without the corresponding private key.
+https://www.kaspersky.com/resource-center/definitions/what-is-cryptography
+
+
+
 
